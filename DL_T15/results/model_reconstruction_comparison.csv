@@ -1,0 +1,4 @@
+Model,Validation_Loss,Mean_Test_Reconstruction_Error,Max_Test_Reconstruction_Error
+Dense AE,0.067409,0.12124,1.18978
+Improved Dense AE,0.001815,0.021962,0.350836
+LSTM AE,0.000461,0.011625,0.209521
