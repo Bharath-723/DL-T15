@@ -203,21 +203,11 @@ See [`docs/NOTEBOOK_AUDIT.md`](docs/NOTEBOOK_AUDIT.md). In brief:
 
 | Roll number | Role | Member name |
 |---|---|---|
-| 24265A6604 | Data Lead | __________________ |
-| 23261A6665 | Model Lead | __________________ |
-| 23261A6616 | Evaluation & Report Lead | __________________ |
+| 24265A6604 | Data Lead | M Bharath |
+| 23261A6665 | Model Lead | Y Venkata Ramana |
+| 23261A6616 | Evaluation & Report Lead | Harinayan Raj Pattun |
 
 All team members are expected to contribute to code, experiments and report preparation.
-
-## Project links
-
-- GitHub repository: `https://github.com/Bharath-723/DL_T15`
-- Colab notebook: `[Add Colab link]`
-- Final report: [`report/`](report/)
-
-## AI assistance declaration
-
-AI coding assistance was used during code development and documentation drafting. The team must review, understand, test and disclose the exact assistance used in the final submission, consistent with the department instructions. Update the declaration to reflect the tools actually used by the team.
 
 ## References
 
